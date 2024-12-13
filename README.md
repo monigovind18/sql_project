@@ -46,7 +46,7 @@ The dataset and the script for the table creation and record insertion can be fo
 2. Review the SQL scripts in the `scripts/` folder.
 3. Execute the scripts in your preferred SQL environment to perform the operations listed above.
    
-#JOMATO _RESTAURENT_MANAGEMENT_ASS2
+# JOMATO _RESTAURENT_MANAGEMENT_ASS2
 
 ## Jomato Data Analysis
 
@@ -80,7 +80,7 @@ You work for a data analytics company, and your client is a food delivery platfo
 2. Review the SQL scripts in the `scripts/` folder.
 3. Execute the scripts in your preferred SQL environment to perform the operations listed above.
 
-# Assignment 3
+# JOMATO_RESTAURENT_MANAGEMENT_ASS3
 
 ## Jomato Data Analysis
 
